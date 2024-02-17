@@ -1,0 +1,34 @@
+/* CSS for Body Properties */
+body {
+    background-color: #dcd4b6; /* Beige/Cream background color */
+    color: #000000; /* Set your desired text color */
+    font-family: 'Arial', sans-serif; /* Change the font type for the body text */
+}
+
+/* CSS for Nav Properties */
+nav {
+    height: 6000px;
+    width: 200px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+    font-family: 'Helvetica', sans-serif; /* Change the font type for the nav section */
+}
+
+/* CSS for Footer Properties */
+footer {
+    text-align: center;
+    margin-right: 200px;
+    font-family: 'Georgia', serif; /* Change the font type for the footer text */
+}
+
+/* CSS for #memeImage Properties */
+#memeImage {
+    margin-right: 200px;
+}
+
+/* CSS for Header Properties */
+header {
+    text-align: center;
+    font-family: 'Verdana', sans-serif; /* Change the font type for the header text */
+}
